@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🪩 Personal Portfolio Website
+👋 Overview
 
-## Getting Started
+This is my personal portfolio website built using Next.js 14, TypeScript, and Tailwind CSS.
+It showcases my projects, skills, education, experience, and serves as a digital representation of my work and background.
+The site is designed to be responsive, fast, and SEO-optimized.
 
-First, run the development server:
+🚀 Tech Stack
+Category	Technologies
+Frontend	Next.js, React, TypeScript
+Styling	Tailwind CSS, Framer Motion (for animations)
+Version Control	Git, GitHub
+Deployment	Vercel
+Package Manager	npm
+🌟 Features
 
-```bash
+🎨 Modern and minimalist UI
+
+📱 Fully responsive for all devices
+
+⚡ Lightning-fast performance using Next.js app router
+
+🧠 SEO-friendly with meta tags and dynamic routing
+
+🧰 Easy to customize and maintain
+
+🖼️ Projects and experience showcased beautifully
+
+📂 Project Structure
+portfolio/
+├── public/              # Static assets
+├── src/
+│   ├── app/             # Next.js app directory
+│   ├── components/      # Reusable UI components
+│   ├── data/            # JSON or TS data files
+│   ├── styles/          # Global styles
+│   └── utils/           # Helper functions
+├── package.json
+├── next.config.ts
+└── README.md
+
+🧭 Getting Started
+
+To run this project locally:
+
+# Clone the repository
+git clone https://github.com/<your-username>/portfolio.git
+
+# Navigate into the folder
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Then visit 👉 http://localhost:3000
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🌐 Deployment
 
-## Learn More
+Deployed easily using Vercel
+:
 
-To learn more about Next.js, take a look at the following resources:
+# Build the project
+npm run build
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Start production server (optional for local test)
+npm start
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+Once deployed, your live URL will look like:
+👉 https://portfolio-yourname.vercel.app
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📸 Preview
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+![Portfolio Preview](./public/preview.png)
+
+👨‍💻 Author
+
+Sumant Sharma
+📍 B.Tech in Computer Science, Jaypee Institute of Information Technology
+💼 Strategic Head — JIIT Optica Chapter
+🌐 LinkedIn
+ • GitHub
+
+🪪 License
+
+This project is open source and available under the MIT License.
