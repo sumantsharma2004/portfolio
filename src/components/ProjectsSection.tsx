@@ -19,7 +19,7 @@ export default function ProjectsSection() {
         "Implemented secure authentication, patient records management, and real-time appointment scheduling"
       ],
       tech: ["React", "Node.js", "Express", "SQLite", "REST API"],
-      github: "https://github.com/sumantsharma",
+      github: "https://github.com/sumantsharma2004",
       demo: "#",
       metrics: [
         { label: "Concurrent Users", value: "10K+" },
@@ -57,7 +57,7 @@ export default function ProjectsSection() {
         "Implemented personalized recommendations and playback tracking for enhanced user experience"
       ],
       tech: ["MongoDB", "Express", "React", "Node.js", "REST API", "JWT"],
-      github: "https://github.com/sumantsharma",
+      github: "https://github.com/sumantsharma2004",
       demo: "#",
       metrics: [
         { label: "Tech Stack", value: "MERN" },
@@ -222,7 +222,7 @@ export default function ProjectsSection() {
         >
           <p className="text-muted-foreground mb-4">More projects available on GitHub</p>
           <motion.a
-            href="https://github.com/sumantsharma"
+            href="https://github.com/sumantsharma2004"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
